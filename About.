@@ -1,0 +1,42 @@
+# PowerBI_Visualizations
+
+Welcome to the PowerBI_Visualizations repository. This repository features interactive dashboards and data models created using Power BI.
+
+## Table of Contents
+1. Introduction
+2. Project List
+3. Setup and Installation
+4. Usage
+5. Contributing
+6. License
+
+## Introduction
+Explore a collection of Power BI projects designed to showcase data visualization and modeling techniques. These projects illustrate how to turn raw data into insightful visual stories.
+
+## Project List
+1. **Sales Analysis Dashboard**:
+   - Analyzing sales data to uncover trends and insights.
+   
+2. **Customer Insights**:
+   - Visualizing customer demographics and behavior.
+   
+3. **Financial Performance Reports**:
+   - Creating detailed financial reports and KPIs.
+   
+4. **Marketing Analytics**:
+   - Evaluating marketing campaigns and their effectiveness.
+   
+5. **Custom Visualizations**:
+   - Implementing custom visuals to enhance data interpretation.
+
+## Setup and Installation
+To view the projects, install Power BI Desktop and open the `.pbix` files included in each project folder.
+
+## Usage
+Each project folder contains a `.pbix` file and a README with detailed instructions. Open the files in Power BI Desktop to explore the visualizations.
+
+## Contributing
+Contributions are welcome! Please feel free to submit a pull request or open an issue to discuss potential changes.
+
+## License
+This repository is licensed under the MIT License. See the 
